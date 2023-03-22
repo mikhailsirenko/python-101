@@ -1,5 +1,8 @@
 # Python 101 or How to start talking to a snake in 3 hours?
 
+<p align="center">
+    <img src="images/midjourney1.png" width="300" height="300">
+
 ## Background
 Learning programming is rather challenging. There are so many programming languages, so many frameworks, so many libraries, so many IDEs, so many concepts, so many things to learn. It is easy to get lost in the sea of information :shrug:.
 
