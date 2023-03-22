@@ -1,5 +1,12 @@
 # Python 101 or How to start talking to a snake in 3 hours?
 
+## Background
+Learning programming is rather challenging. There are so many programming languages, so many frameworks, so many libraries, so many IDEs, so many concepts, so many things to learn. It is easy to get lost in the sea of information :shrug:.
+
+What is the way out? The answer is simple: **start with Python**. Python is a general-purpose programming language that is becoming more and more popular in the data science community. It is easy to learn, it is **free**, it is open-source, it is cross-platform, it is powerful, it is flexible, it is fun.
+
+One of the core advantages of Python is that it has a **huge community**. This means that there are a lot of resources available online. You can find a lot of tutorials, courses, books, and videos. Besides that, it has a great collection of **packages** for data science and machine learning. For example, **Pandas** is a library for data manipulation and analysis. It provides high-performance, easy-to-use data structures and data analysis tools. **scikit-learn** is a library for machine learning in Python. It has a wide range of supervised and unsupervised learning algorithms via a consistent interface in Python.
+
 ## What topics are we going to cover?
 1. What is Python, and what can it do?
 2. How to program in Python?
