@@ -66,9 +66,10 @@ We are going to use Jupyter Notebooks. You can find the workshop materials in th
 ```
 ## Authors
 [Auriane Tecourt](https://github.com/AurianeTec), [Marya Malki](https://github.com/maryamalki) and [Mikhail Sirenko](https://github.com/mikhailsirenko).
-
+<center>
 <p float="center">
-  <img src="images/main/figure2.png" width="200" alt="Auriane"/>
-  <img src="images/main/figure3.png" width="200" alt="Marya"/> 
-  <img src="images/main/figure4.png" width="200" alt="Mikhail"/>
+  <img src="images/main/figure2.png" width="200" title="Auriane"/>
+  <img src="images/main/figure3.png" width="200" title="Marya"/> 
+  <img src="images/main/figure4.png" width="200" title="Mikhail"/>
 </p>
+</center>
