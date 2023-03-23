@@ -8,7 +8,7 @@ Learning programming is rather challenging. There are so many programming langua
 
 What is the way out? The answer is simple: **start with Python** :snake:. Python is a general-purpose programming language that is becoming more and more popular in the data science community. It is easy to learn, it is :free:, it is open-source, it is cross-platform, it is powerful, it is flexible, it is fun.
 
-One of the core advantages of Python is that it has a **huge community** :people_holding_hands:. This means that there are a lot of resources available online. You can find a lot of tutorials, courses, books, and videos. Besides that, it has a great collection of **packages** :package: for data science and machine learning. For example, **Pandas** is a library for data manipulation and analysis. It provides high-performance, easy-to-use data structures and data analysis tools. **scikit-learn** is a library for machine learning in Python. It has a wide range of supervised and unsupervised learning algorithms via a consistent interface in Python.
+One of the core advantages of Python is that it has a **huge community** :people_holding_hands:. This means that there are a lot of resources available online. You can find a lot of tutorials, courses, books, and videos. Besides that, it has a great collection of **packages** :package: for data science and machine learning. For example, **[Pandas]([https:/](https://pandas.pydata.org/))** is a library for data manipulation and analysis. It provides high-performance, easy-to-use data structures and data analysis tools. **[scikit-learn]((https://scikit-learn.org/stable/))** is a library for machine learning in Python. It has a wide range of supervised and unsupervised learning algorithms via a consistent interface in Python.
 
 ## What topics are we going to cover?
 1. What is Python, and what can it do?
@@ -66,3 +66,9 @@ We are going to use Jupyter Notebooks. You can find the workshop materials in th
 ```
 ## Authors
 [Auriane Tecourt](https://github.com/AurianeTec), [Marya Malki](https://github.com/maryamalki) and [Mikhail Sirenko](https://github.com/mikhailsirenko).
+
+<p float="center">
+  <img src="images/main/figure2.png" width="200" alt="Auriane"/>
+  <img src="images/main/figure3.png" width="200" alt="Marya"/> 
+  <img src="images/main/figure4.png" width="200" alt="Mikhail"/>
+</p>
