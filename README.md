@@ -66,6 +66,7 @@ We are going to use Jupyter Notebooks. You can find the workshop materials in th
 ```
 ## Authors
 [Auriane Tecourt](https://github.com/AurianeTec), [Marya Malki](https://github.com/maryamalki) and [Mikhail Sirenko](https://github.com/mikhailsirenko).
+
 <center>
 <p float="center">
   <img src="images/main/figure2.png" width="200" title="Auriane"/>
