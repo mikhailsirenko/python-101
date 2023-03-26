@@ -1,5 +1,7 @@
 # Python 101 or How to start talking to a snake in 3 hours?
 
+_We uploaded examples and answers!_
+
 <p align="center">
     <img src="images/midjourney1.png" width="300" height="300">
 
@@ -61,7 +63,9 @@ We are going to use Jupyter Notebooks. You can find the workshop materials in th
 ├── answers.ipynb    <- answers to the exercises
 ├── main.ipynb       <- this workshop
 ├── main.slides.html <- slides of the workshop
+├── examples.ipynb   <- example exercises
 ├── exercises.ipynb  <- exercises
+├── extra.ipynb      <- extra exercises
 ├── README.md        <- this file
 ```
 ## Authors
